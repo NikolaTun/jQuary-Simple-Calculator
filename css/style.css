@@ -25,6 +25,13 @@
   border-radius: 9px;
 }
 
+p {
+  color: white;
+  font-size: 18px;
+
+  margin-bottom: 10px;
+}
+
 input[type="button"] {
   width: 76px;
   height: 76px;
